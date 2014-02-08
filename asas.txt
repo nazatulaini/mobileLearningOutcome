@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="css/jquery.mobile.min.css" rel="stylesheet" type="text/css">
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.mobile.min.js"></script>
+<!--jquery is java script-->
+
+
+
+
+</head>
+
+<body>
+
+<!--source code daripada http://demos.jquerymobile.com/1.4.0/pages/-->
+<div data-role="page">
+	<div data-role="header">
+	
+	
+	
+	Ini mobile query pertama saya
+	
+	
+	
+	
+	</div>
+	<div role="main" class="ui-content">...</div>
+	<div data-role="footer">...</div>
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
